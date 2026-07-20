@@ -5,7 +5,16 @@ providing full visibility into the credit campaign approval funnel — from the
 initial client universe through hard filters, strategic filters, and final leads —
 with cohort-based campaign performance tracking (cosechas 3M and 6M).
 
-## 🔗 [Ver demo en vivo — Novypro](#) *(enlace disponible próximamente)*
+## 📸 Dashboard preview
+
+### Leads — Campaign summary
+![Leads tab](sample_output/tab_leads.png)
+
+### Cascada — Filter waterfall
+![Cascada tab](sample_output/tab_cascada.png)
+
+### Seguimiento — Cohort tracking
+![Seguimiento tab](sample_output/tab_seguimiento.png)
 
 ---
 

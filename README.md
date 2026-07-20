@@ -5,19 +5,6 @@ en Excel, brindando visibilidad completa del embudo de aprobación crediticia �
 desde el universo inicial de clientes hasta los leads finales por campaña —
 con seguimiento de cosechas a 3M y 6M.
 
-## 📸 Dashboard preview
-
-### Leads — Campaign summary
-![Leads tab](sample_output/tab_leads.png)
-
-### Cascada — Filter waterfall
-![Cascada tab](sample_output/tab_cascada.png)
-
-### Seguimiento — Cohort tracking
-![Seguimiento tab](sample_output/tab_seguimiento.png)
-
----
-
 ## 🎯 Contexto de negocio
 
 La institución gestionaba múltiples campañas crediticias mensuales (aprobados
